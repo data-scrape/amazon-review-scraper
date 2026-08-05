@@ -41,8 +41,44 @@
 - [📊 Data Fields Extracted](#-data-fields-extracted)
 - [💻 Configuration](#-configuration)
 - [🔁 Output Example](#-output-example)
+- [📝 License](#-license)
 - [Related Repositories](#related-repositories)
 - [Support This Project](#-support-this-project)
+
+---
+
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/xiaozhucchongya-byte/amazon-review-scraper?style=social)](https://github.com/xiaozhucchongya-byte/amazon-review-scraper)
+[![GitHub forks](https://img.shields.io/github/forks/xiaozhucchongya-byte/amazon-review-scraper?style=social)](https://github.com/xiaozhucchongya-byte/amazon-review-scraper/fork)
+[![GitHub issues](https://img.shields.io/github/issues/xiaozhucchongya-byte/amazon-review-scraper)](https://github.com/xiaozhucchongya-byte/amazon-review-scraper/issues)
+[![GitHub license](https://img.shields.io/github/license/xiaozhucchongya-byte/amazon-review-scraper)](https://github.com/xiaozhucchongya-byte/amazon-review-scraper/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
+
+</div>
+
+
+> Amazon review scraper - extract product reviews and ratings in bulk
+
+
+<!-- SEO keywords: amazon review scraper, Amazon Review Scraper, amazon review scraper python, amazon review scraper github, best amazon review scraper -->
+
+
+<div align="center">
+
+[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+
+**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
+
+✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
+
+⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+
+</div>
+
+---
+
 
 ---
 
@@ -98,6 +134,18 @@ scrape_amazon_reviews("B08N5WRWNW")
 # Returns: [{'review_id': '...', 'rating': 5, 'title': '...', 'body': '...'}, ...]
 ```
 
+
+## 📝 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+<sup>Built with ❤️ for the web scraping community</sup>
+
+</div>
 
 
 <!-- INSTALL_SECTION_START -->
@@ -290,15 +338,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 <!-- CONTRIB_SECTION_END -->
 
-
-## 📝 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-<sup>Built with ❤️ for the web scraping community</sup>
-
-</div>
